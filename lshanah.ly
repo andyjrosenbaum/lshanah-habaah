@@ -25,28 +25,28 @@ global = {
 
 sopPartOne = \relative c' {
 	| c8 c   c  r  c c   c  r  |  % l'shanah haba-ah
-	| c8 c   c  r  c c   c  r  |  % l'shanah haba-ah
+	| c8 des   c  r  c c   c  r  |  % l'shanah haba-ah
 	| c8 des e( f) g aes g( f) |  % l'shanah haba-ah
 	| e8 f   e des c4    c4    |  % b'yerushalayim
 }
 
 altoPartOne = \relative c' {
 	| g8 g   g  r    g g g  r    |  % l'shanah haba-ah
-	| g8 g   g  r    g g g  r    |  % l'shanah haba-ah
+	| g8 aes   g  r    g g g  r    |  % l'shanah haba-ah
 	| g8 aes c( des) e des e( des) |  % l'shanah haba-ah
 	| c8 des c  aes  g4  g4      |  % b'yerushalayim
 }
 
 tenorPartOne = \relative c {
 	| e8 e   e  r    e e e  r    |  % l'shanah haba-ah
-	| e8 e   e  r    e e e  r    |  % l'shanah haba-ah
+	| e8 f   e  r    e e e  r    |  % l'shanah haba-ah
 	| e8 f   g( aes) c aes c( aes) |  % l'shanah haba-ah
 	| g8 aes g  f    e4  e4      |  % b'yerushalayim
 }
 
 bassPartOne = \relative c {
 	| c8 c   c  r    c c c  r  |  % l'shanah haba-ah
-	| c8 c   c  r    c c c  r  |  % l'shanah haba-ah
+	| c8 des   c  r  c c c  r  |  % l'shanah haba-ah
 	| c8 bes g( des') c f e( f) |  % l'shanah haba-ah
 	| g8 des g,  bes  c4    c4  |  % b'yerushalayim
 }
